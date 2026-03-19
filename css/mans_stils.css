@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 19, 2026, 1:54:23 PM
+    Author     : knklavina
+*/
+
+body{height: 100%; background-color:#DCF5F2}
+  
+/*virsraksts*/          
+h1{color:#0F4147; font-family:'Courier New'; margin-top: 50px; margin-bottom:50px; margin-right:50px; margin-left:50px}
+ 
+/*apakšvirsraksti*/           
+h2{color:#0F4147; font-family:'Courier New'; margin-top: 50px; margin-bottom:50px; margin-right:50px; margin-left:50px}
+  
+/*teksts*/            
+p{color:#0F4147; font-family:'Courier New'; font-size:20px; margin-top: 50px; margin-bottom:50px; margin-right:50px; margin-left:50px}
+  
+/*navigācijas panelis un linki*/            
+a{font-family:Courier New}
